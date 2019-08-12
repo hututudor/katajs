@@ -1,9 +1,9 @@
-# KataJs
+# Katas
 
 A routing library for AWS Lambda
 
 ### Installation
-`yarn add katajs`
+`yarn add katas`
 
 ### Using
 ####WIP
